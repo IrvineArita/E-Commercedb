@@ -1,6 +1,9 @@
 ## E-Commerce ERD
 Below is the ERD representing the structure of the E-Commerce database.
 
+<<<<<<< HEAD
+[c:\Users\Hp\Desktop\peer\E-Commerce\Assets\ERD.png.png](https://github.com/IrvineArita/E-Commercedb?tab=readme-ov-file)
+=======
 ![ERD Diagram](Assets/ERD.png)
 
 COLLABORATORS
@@ -11,3 +14,4 @@ COLLABORATORS
   <b>Irvine Arita</b>
 </a>
 </div>
+>>>>>>> 1404559 (Modified ERD)
